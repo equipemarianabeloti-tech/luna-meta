@@ -1,1 +1,33 @@
+# Credenciais
+.env
+.env.local
+.env.production
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
